@@ -64,7 +64,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\s\n
 
 # sent_id = 8
-# text = Его жена толкала, толкала, письмо подсовывала — не видит.
+# text = Его жена толкала, толкала, эпистолу подсовывала — не видит.
 1	Его	он	PRON	_	Case=Gen|Gender=Masc|Number=Sing|Person=3	2	nmod:poss	_	_
 2	жена	жена	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	3	nsubj	_	_
 3	толкала	толкать	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
