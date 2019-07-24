@@ -1,11 +1,3 @@
-# sent_id = 3
-# text = Очень хотелось бы познакомиться.
-1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	_
-2	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
-3	бы	бы	PART	_	Mood=Cnd	2	aux	_	_
-4	познакомиться	знакомиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	SpaceAfter=No
-5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\s\n
-
 # sent_id = 4
 # text = Всего хорошего.
 1	Всего	весь	DET	_	Case=Gen|Gender=Neut|Number=Sing	2	det	_	_
@@ -87,7 +79,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\s\n
 
 # sent_id = 2
-# text = "Дорогой далекий друг, — писал он, — я Вас не знаю, и Вы меня не знаете.
+# text = "Дорогой далssёкий друг, — писал он, — я Вас не знаю, и Вы меня не знаете.
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Дорогой	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
 3	далекий	далекий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
@@ -109,3 +101,11 @@
 19	не	не	PART	_	_	20	advmod	_	_
 20	знаете	знать	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	7	conj	_	SpaceAfter=No
 21	.	.	PUNCT	_	_	20	punct	_	SpacesAfter=\s\n
+
+# sent_id = 3
+# text = Очень хотелось бы познакомиться.
+1	Очень	очень	ADV	_	Degree=Pos	2	advmod	_	_
+2	хотелось	хотеться	VERB	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	бы	бы	PART	_	Mood=Cnd	2	aux	_	_
+4	познакомиться	знакомиться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	2	xcomp	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\s\n
