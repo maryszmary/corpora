@@ -79,7 +79,7 @@
 7	.	.	PUNCT	_	_	6	punct	_	SpacesAfter=\s\n
 
 # sent_id = 2
-# text = "Дорогой далёкий друг, — писал он, — я Вас не знаю, и Вы меня не знаете.
+# text = "Уважаемый далёкий друг, — писал он, — я Вас не знаю, и Вы меня не знаете.
 1	"	"	PUNCT	_	_	2	punct	_	SpaceAfter=No
 2	Дорогой	дорогой	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
 3	далекий	далекий	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	4	amod	_	_
